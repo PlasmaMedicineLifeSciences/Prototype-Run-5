@@ -1,0 +1,77 @@
+Removed Pin From Net: NetName=GND Pin=C2-1
+Removed Pin From Net: NetName=V_FEEDBACK Pin=C2-2
+Removed Pin From Net: NetName=NetC3_2 Pin=C3-2
+Removed Pin From Net: NetName=I_FEEDBACK Pin=C4-2
+Removed Pin From Net: NetName=SW_FREQ Pin=C5-2
+Removed Pin From Net: NetName=NetC6_2 Pin=C6-2
+Removed Pin From Net: NetName=VCC Pin=C7-1
+Removed Pin From Net: NetName=GND Pin=C7-2
+Removed Pin From Net: NetName=NetC1_2 Pin=R1-2
+Removed Pin From Net: NetName=NetC3_2 Pin=R3-1
+Removed Pin From Net: NetName=NetC6_2 Pin=R3-2
+Removed Pin From Net: NetName=NetC3_2 Pin=U1-5
+Change Component DesignItemId : Designator=C4 Old DesignItemId=06031C102KAT2A New DesignItemId=C0805C474J5RACTU
+Change Component DesignItemId : Designator=C7 Old DesignItemId=06035C104KAT2A New DesignItemId=GRM21BR61H475KE51L
+Change Component DesignItemId : Designator=C5 Old DesignItemId=C0603-- New DesignItemId=C0805C102J5GACTU
+Change Component DesignItemId : Designator=C1 Old DesignItemId=C0603-- New DesignItemId=GRM2195C1H562FA01D
+Change Component DesignItemId : Designator=C3 Old DesignItemId=C0603C474K4RACTU New DesignItemId=CC0805KRX7R9BB821
+Change Component DesignItemId : Designator=C2 Old DesignItemId=C0603C821K5RACTU New DesignItemId=C0805_Generic
+Change Component DesignItemId : Designator=R1 Old DesignItemId=CRCW0603-- New DesignItemId=R0805_Generic
+Change Component DesignItemId : Designator=R2 Old DesignItemId=CRCW060317K4FKEB New DesignItemId=RC0805FR-0722KL
+Change Component DesignItemId : Designator=R3 Old DesignItemId=CRCW060322K6FKEA New DesignItemId=RC0805FR-0722K6L
+Change Component DesignItemId : Designator=C6 Old DesignItemId=GRM21BR71A475KA73L New DesignItemId=C0805_Generic
+Change Component DesignItemId : Designator=C8 Old DesignItemId=GRM32RR71H105KA01K New DesignItemId=C0805C104J5RACAUTO
+Change Component DesignItemId : Designator=C9 Old DesignItemId=GRM188R71H272KA01D New DesignItemId=CC0805JKX7R9BB105
+Change Component Footprint: Designator=C1 Old Footprint=CAP0603 New Footprint=CAP0805_NEW
+Change Component Footprint: Designator=C2 Old Footprint=CAP0603 New Footprint=CAP0805_NEW
+Change Component Footprint: Designator=C3 Old Footprint=CAP0603 New Footprint=CAP0805_NEW
+Change Component Footprint: Designator=C4 Old Footprint=CAP0603 New Footprint=CAP0805_NEW
+Change Component Footprint: Designator=C5 Old Footprint=CAP0603 New Footprint=CAP0805_NEW
+Change Component Footprint: Designator=C7 Old Footprint=CAP0603 New Footprint=CAP0805_NEW
+Change Component Footprint: Designator=C9 Old Footprint=CAP0603 New Footprint=CAP0805_NEW
+Change Component Footprint: Designator=R3 Old Footprint=CAP0603 New Footprint=RES0805_New
+Change Component Footprint: Designator=C6 Old Footprint=CAP0805 New Footprint=CAP0805_NEW
+Change Component Footprint: Designator=C8 Old Footprint=CAP1206 New Footprint=CAP0805_NEW
+Change Component Footprint: Designator=R1 Old Footprint=RES0603 New Footprint=RES0805_New
+Change Component Footprint: Designator=R2 Old Footprint=RES0603 New Footprint=RES0805_New
+Change Component Comment : Designator=C4 Old Comment=06031C102KAT2A New Comment=C0805C474J5RACTU
+Change Component Comment : Designator=C7 Old Comment=06035C104KAT2A New Comment=GRM21BR61H475KE51L
+Change Component Comment : Designator=C5 Old Comment=C0603-- New Comment=C0805C102J5GACTU
+Change Component Comment : Designator=C1 Old Comment=C0603-- New Comment=GRM2195C1H562FA01D
+Change Component Comment : Designator=C3 Old Comment=C0603C474K4RACTU New Comment=CC0805KRX7R9BB821
+Change Component Comment : Designator=C2 Old Comment=C0603C821K5RACTU New Comment=C0805_Generic
+Change Component Comment : Designator=R1 Old Comment=CRCW0603-- New Comment=R0805_Generic
+Change Component Comment : Designator=R2 Old Comment=CRCW060317K4FKEB New Comment=RC0805FR-0722KL
+Change Component Comment : Designator=R3 Old Comment=CRCW060322K6FKEA New Comment=RC0805FR-0722K6L
+Change Component Comment : Designator=C6 Old Comment=GRM21BR71A475KA73L New Comment=C0805_Generic
+Change Component Comment : Designator=C8 Old Comment=GRM32RR71H105KA01K New Comment=C0805C104J5RACAUTO
+Change Component Comment : Designator=C9 Old Comment=GRM188R71H272KA01D New Comment=CC0805JKX7R9BB105
+Added Component: Designator=C10(CAP0805_NEW)
+Added Component: Designator=D1(MRA4004T3G)
+Added Pin To Net: NetName=NetC1_2 Pin=C2-2
+Added Pin To Net: NetName=V_FEEDBACK Pin=C3-2
+Added Pin To Net: NetName=NetC6_2 Pin=C4-2
+Added Pin To Net: NetName=I_FEEDBACK Pin=C5-2
+Added Pin To Net: NetName=SW_FREQ Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=NetC3_2 Pin=C7-2
+Added Pin To Net: NetName=VCC Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=VCC Pin=C10-2
+Added Pin To Net: NetName=GND Pin=D1-1
+Added Pin To Net: NetName=I_FEEDBACK Pin=D1-2
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Pin To Net: NetName=NetC6_2 Pin=R3-1
+Added Pin To Net: NetName=NetC3_2 Pin=R3-2
+Added Pin To Net: NetName=NetC1_2 Pin=TP2-1
+Added Pin To Net: NetName=NetC1_2 Pin=U1-2
+Added Pin To Net: NetName=NetC6_2 Pin=U1-5
+Change Net Name : Old Net Name=NetC3_2 New Net Name=NetC7_2
+Change Net Name : Old Net Name=NetC6_2 New Net Name=NetC4_2
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=R1-1
+Added Net: Name=NetC2_1
+Change Class Name : Old Net Name=SS-1 New Net Name=U_PFC control board
+Added Member To Class: ClassName=U_PFC control board Member=Component C10 C0805_Generic
+Added Member To Class: ClassName=U_PFC control board Member=Component D1 MRA4004T3G
+Added Room: Name=U_PFC control board

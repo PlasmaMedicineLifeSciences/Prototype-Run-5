@@ -1,0 +1,202 @@
+Added Component: Designator=BR(GBU8J)
+Added Component: Designator=C1(ECQ-U2A474ML)
+Added Component: Designator=C2(ECQ-U2A474ML)
+Added Component: Designator=C3(CAPFILM0.33U)
+Added Component: Designator=C4(CS11-E2GA222MYNS)
+Added Component: Designator=C5(CS11-E2GA222MYNS)
+Added Component: Designator=C6(CAP0805_NEW)
+Added Component: Designator=C7(CAP0805_NEW)
+Added Component: Designator=C8(CAP0805_NEW)
+Added Component: Designator=C9(450QXW120MEFC18X31.5)
+Added Component: Designator=C10(450QXW120MEFC18X31.5)
+Added Component: Designator=C11(450QXW120MEFC18X31.5)
+Added Component: Designator=C12(CAP1812)
+Added Component: Designator=C13(CAP1812)
+Added Component: Designator=C14(CAPALUM47U)
+Added Component: Designator=CN1(MSV10-ND)
+Added Component: Designator=CN2(CONN_1935789)
+Added Component: Designator=CN3(CONN_1935776)
+Added Component: Designator=CN4(CONN_1935776)
+Added Component: Designator=D1(Mini2-F3-B)
+Added Component: Designator=D4(Mini2-F3-B)
+Added Component: Designator=D5(1N5406-DO201AD)
+Added Component: Designator=D6(C3D04060A)
+Added Component: Designator=D7(C3D04060A)
+Added Component: Designator=F1(0031.8211)
+Added Component: Designator=HT1(HT-78245)
+Added Component: Designator=L1(8113-RC)
+Added Component: Designator=L2(G-51-185LF)
+Added Component: Designator=Q1(TO-247-3)
+Added Component: Designator=Q2(TO-247-3)
+Added Component: Designator=R1(RES0805)
+Added Component: Designator=R2(RES0805)
+Added Component: Designator=R3(RES0805_New)
+Added Component: Designator=R4(RES2512)
+Added Component: Designator=R5(RES0805_New)
+Added Component: Designator=R6(RES1206)
+Added Component: Designator=R7(RES0805)
+Added Component: Designator=R8(RES0805)
+Added Component: Designator=R9(RES0805)
+Added Component: Designator=R10(RES0805_New)
+Added Component: Designator=RT1(CL-40)
+Added Component: Designator=TP1(Test Point)
+Added Component: Designator=TP2(Test Point)
+Added Component: Designator=TP3(Test Point)
+Added Component: Designator=TP4(Test Point)
+Added Component: Designator=TP5(Test Point)
+Added Component: Designator=TP6(Test Point)
+Added Component: Designator=TP7(Test Point)
+Added Component: Designator=TP8(Test Point)
+Added Component: Designator=TP9(Test Point)
+Added Component: Designator=TP10(Test Point)
+Added Component: Designator=TP11(Test Point)
+Added Component: Designator=TP12(Test Point)
+Added Component: Designator=TP13(Test Point)
+Added Component: Designator=U(SOP6)
+Added Component: Designator=VAR(S10K275E2)
+Added Component: Designator=W(Current Sense Wire)
+Added Pin To Net: NetName=EARTH Pin=C4-1
+Added Pin To Net: NetName=EARTH Pin=C5-1
+Added Pin To Net: NetName=EARTH Pin=CN2-1
+Added Net: Name=EARTH
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C14-2
+Added Pin To Net: NetName=GND Pin=CN1-3
+Added Pin To Net: NetName=GND Pin=CN3-2
+Added Pin To Net: NetName=GND Pin=CN4-1
+Added Pin To Net: NetName=GND Pin=Q1-3
+Added Pin To Net: NetName=GND Pin=Q2-3
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=GND Pin=R10-2
+Added Pin To Net: NetName=GND Pin=TP2-1
+Added Pin To Net: NetName=GND Pin=TP13-1
+Added Pin To Net: NetName=GND Pin=U-4
+Added Pin To Net: NetName=GND Pin=U-5
+Added Net: Name=GND
+Added Pin To Net: NetName=LINE Pin=CN2-3
+Added Pin To Net: NetName=LINE Pin=F1-1
+Added Net: Name=LINE
+Added Pin To Net: NetName=NetBR_1 Pin=BR-1
+Added Pin To Net: NetName=NetBR_1 Pin=C3-2
+Added Pin To Net: NetName=NetBR_1 Pin=D5-2
+Added Pin To Net: NetName=NetBR_1 Pin=L2-1
+Added Pin To Net: NetName=NetBR_1 Pin=TP6-1
+Added Net: Name=NetBR_1
+Added Pin To Net: NetName=NetBR_2 Pin=BR-2
+Added Pin To Net: NetName=NetBR_2 Pin=RT1-1
+Added Net: Name=NetBR_2
+Added Pin To Net: NetName=NetBR_3 Pin=BR-3
+Added Pin To Net: NetName=NetBR_3 Pin=C1-1
+Added Pin To Net: NetName=NetBR_3 Pin=C5-2
+Added Pin To Net: NetName=NetBR_3 Pin=L1-2
+Added Net: Name=NetBR_3
+Added Pin To Net: NetName=NetBR_4 Pin=BR-4
+Added Pin To Net: NetName=NetBR_4 Pin=C3-1
+Added Pin To Net: NetName=NetBR_4 Pin=R4-2
+Added Pin To Net: NetName=NetBR_4 Pin=R5-1
+Added Pin To Net: NetName=NetBR_4 Pin=TP7-1
+Added Net: Name=NetBR_4
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=C4-2
+Added Pin To Net: NetName=NetC1_2 Pin=L1-3
+Added Pin To Net: NetName=NetC1_2 Pin=RT1-2
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=F1-2
+Added Pin To Net: NetName=NetC2_1 Pin=L1-4
+Added Pin To Net: NetName=NetC2_1 Pin=VAR-2
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetC6_2 Pin=C6-2
+Added Pin To Net: NetName=NetC6_2 Pin=Q1-1
+Added Pin To Net: NetName=NetC6_2 Pin=Q2-1
+Added Pin To Net: NetName=NetC6_2 Pin=R1-1
+Added Pin To Net: NetName=NetC6_2 Pin=R2-1
+Added Pin To Net: NetName=NetC6_2 Pin=R3-1
+Added Pin To Net: NetName=NetC6_2 Pin=TP10-1
+Added Net: Name=NetC6_2
+Added Pin To Net: NetName=NetCN1_1 Pin=CN1-1
+Added Pin To Net: NetName=NetCN1_1 Pin=R7-2
+Added Pin To Net: NetName=NetCN1_1 Pin=R10-1
+Added Pin To Net: NetName=NetCN1_1 Pin=TP1-1
+Added Net: Name=NetCN1_1
+Added Pin To Net: NetName=NetCN1_9 Pin=CN1-9
+Added Pin To Net: NetName=NetCN1_9 Pin=TP4-1
+Added Pin To Net: NetName=NetCN1_9 Pin=U-6
+Added Net: Name=NetCN1_9
+Added Pin To Net: NetName=NetCN1_10 Pin=CN1-10
+Added Pin To Net: NetName=NetCN1_10 Pin=R5-2
+Added Pin To Net: NetName=NetCN1_10 Pin=TP5-1
+Added Net: Name=NetCN1_10
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=R1-2
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD1_3 Pin=D1-3
+Added Pin To Net: NetName=NetD1_3 Pin=U-2
+Added Net: Name=NetD1_3
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=NetD4_1 Pin=U-3
+Added Net: Name=NetD4_1
+Added Pin To Net: NetName=NetD4_3 Pin=D4-3
+Added Pin To Net: NetName=NetD4_3 Pin=R2-2
+Added Net: Name=NetD4_3
+Added Pin To Net: NetName=NetD6_2 Pin=D6-2
+Added Pin To Net: NetName=NetD6_2 Pin=D7-2
+Added Pin To Net: NetName=NetD6_2 Pin=TP8-1
+Added Pin To Net: NetName=NetD6_2 Pin=W-2
+Added Net: Name=NetD6_2
+Added Pin To Net: NetName=NetD7_1 Pin=D7-1
+Added Pin To Net: NetName=NetD7_1 Pin=Q1-2
+Added Pin To Net: NetName=NetD7_1 Pin=Q2-2
+Added Net: Name=NetD7_1
+Added Pin To Net: NetName=NetL2_2 Pin=L2-2
+Added Pin To Net: NetName=NetL2_2 Pin=W-1
+Added Net: Name=NetL2_2
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=NetR6_2 Pin=R9-1
+Added Pin To Net: NetName=NetR6_2 Pin=TP12-1
+Added Net: Name=NetR6_2
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetR7_1 Pin=R8-2
+Added Net: Name=NetR7_1
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Pin To Net: NetName=NetR8_1 Pin=R9-2
+Added Net: Name=NetR8_1
+Added Pin To Net: NetName=NEUTRAL Pin=C2-2
+Added Pin To Net: NetName=NEUTRAL Pin=CN2-2
+Added Pin To Net: NetName=NEUTRAL Pin=VAR-1
+Added Net: Name=NEUTRAL
+Added Pin To Net: NetName=VCC Pin=C7-2
+Added Pin To Net: NetName=VCC Pin=C8-2
+Added Pin To Net: NetName=VCC Pin=C14-1
+Added Pin To Net: NetName=VCC Pin=CN1-5
+Added Pin To Net: NetName=VCC Pin=CN4-2
+Added Pin To Net: NetName=VCC Pin=TP3-1
+Added Pin To Net: NetName=VCC Pin=U-1
+Added Net: Name=VCC
+Added Pin To Net: NetName=VOUT Pin=C9-1
+Added Pin To Net: NetName=VOUT Pin=C10-1
+Added Pin To Net: NetName=VOUT Pin=C11-1
+Added Pin To Net: NetName=VOUT Pin=C12-2
+Added Pin To Net: NetName=VOUT Pin=C13-2
+Added Pin To Net: NetName=VOUT Pin=CN3-1
+Added Pin To Net: NetName=VOUT Pin=D5-1
+Added Pin To Net: NetName=VOUT Pin=D6-1
+Added Pin To Net: NetName=VOUT Pin=R6-1
+Added Pin To Net: NetName=VOUT Pin=TP9-1
+Added Net: Name=VOUT
+Added Class: Name=Boosting Stage
+Added Class: Name=Driving Stage
+Added Class: Name=Filtering Stage
+Added Class: Name=Top Sheet_Power System
+Added Room: Name=Boosting Stage
+Added Room: Name=Driving Stage
+Added Room: Name=Filtering Stage
+Added Room: Name=Top Sheet_Power System

@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=Top Sheet_Power System.SchDoc
+Record=SheetSymbol|SourceDocument=Top Sheet_Power System.SchDoc|Designator=Boosting Stage|SchDesignator=Boosting Stage|FileName=Boost Converter Circuit.SchDoc|SymbolType=Normal|RawFileName=Boost Converter Circuit.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top Sheet_Power System.SchDoc|Designator=Driving Stage|SchDesignator=Driving Stage|FileName=UCC27511_MSFTDRIVER.SchDoc|SymbolType=Device Sheet|RawFileName=UCC27511_MSFTDRIVER|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top Sheet_Power System.SchDoc|Designator=Filtering Stage|SchDesignator=Filtering Stage|FileName=EMI Filter.SchDoc|SymbolType=Normal|RawFileName=EMI Filter.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

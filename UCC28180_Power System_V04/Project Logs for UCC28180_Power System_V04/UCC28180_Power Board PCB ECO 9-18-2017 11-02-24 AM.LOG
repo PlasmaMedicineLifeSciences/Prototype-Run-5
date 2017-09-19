@@ -1,0 +1,3 @@
+Added Component: Designator=TP10(Test Point)
+Added Pin To Net: NetName=NetC6_2 Pin=TP10-1
+Added Member To Class: ClassName=Boosting Stage Member=Component TP10 5006

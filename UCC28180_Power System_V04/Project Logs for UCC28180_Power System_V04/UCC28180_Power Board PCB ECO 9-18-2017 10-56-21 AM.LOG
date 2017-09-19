@@ -1,0 +1,6 @@
+Added Component: Designator=W(Current Sense Wire)
+Added Pin To Net: NetName=NetL2_2 Pin=W-1
+Added Pin To Net: NetName=NetD6_2 Pin=W-2
+Added Member To Class: ClassName=Boosting Stage Member=Component W (W1) Wire
+Added Room: Name=Filtering Stage
+Added Room: Name=Top Sheet_Power System

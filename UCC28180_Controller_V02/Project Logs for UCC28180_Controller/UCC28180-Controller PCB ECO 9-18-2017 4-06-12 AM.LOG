@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=VCC Pin=CN1-1
+Removed Pin From Net: NetName=V_FEEDBACK Pin=CN1-9
+Removed Pin From Net: NetName=I_FEEDBACK Pin=CN1-10
+Added Component: Designator=TP2(Test Point)
+Added Pin To Net: NetName=I_FEEDBACK Pin=CN1-1
+Added Pin To Net: NetName=VCC Pin=CN1-5
+Added Pin To Net: NetName=VCC Pin=CN1-6
+Added Pin To Net: NetName=V_FEEDBACK Pin=CN1-10
+Added Pin To Net: NetName=NetC1_2 Pin=TP2-1
+Added Member To Class: ClassName=U_PFC control board Member=Component TP2 5006
+Added Room: Name=U_PFC control board

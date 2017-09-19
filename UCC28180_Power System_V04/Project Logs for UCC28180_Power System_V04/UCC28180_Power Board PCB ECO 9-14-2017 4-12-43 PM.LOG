@@ -1,0 +1,15 @@
+Added Component: Designator=R7(RES0805_New)
+Added Component: Designator=R8(RES0805_New)
+Added Component: Designator=R9(RES0805_New)
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetCN1_1 Pin=R7-2
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Pin To Net: NetName=NetR7_1 Pin=R8-2
+Added Pin To Net: NetName=NetR6_2 Pin=R9-1
+Added Pin To Net: NetName=NetR8_1 Pin=R9-2
+Added Member To Class: ClassName=Boosting Stage Member=Component R7 (R4) CRCW0805340KFKEA
+Added Member To Class: ClassName=Boosting Stage Member=Component R8 (R5) CRCW0805332KFKEA
+Added Member To Class: ClassName=Boosting Stage Member=Component R9 (R6) CRCW0805332KFKEA
+Added Room: Name=Boosting Stage
+Added Room: Name=Filtering Stage
+Added Room: Name=Top Sheet_Power System

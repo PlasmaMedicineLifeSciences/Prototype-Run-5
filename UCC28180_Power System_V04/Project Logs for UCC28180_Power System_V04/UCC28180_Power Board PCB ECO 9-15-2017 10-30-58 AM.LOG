@@ -1,0 +1,31 @@
+Added Component: Designator=CN1(MSV10-ND)
+Added Component: Designator=R5(RES0805_New)
+Added Component: Designator=R7(RES0805_New)
+Added Component: Designator=R10(RES0805_New)
+Added Component: Designator=TP1(Test Point)
+Added Component: Designator=TP2(Test Point)
+Added Component: Designator=TP4(Test Point)
+Added Component: Designator=TP5(Test Point)
+Added Pin To Net: NetName=NetCN1_1 Pin=CN1-1
+Added Pin To Net: NetName=NetCN1_2 Pin=CN1-2
+Added Pin To Net: NetName=GND Pin=CN1-3
+Added Pin To Net: NetName=VCC Pin=CN1-5
+Added Pin To Net: NetName=NetCN1_10 Pin=CN1-10
+Added Pin To Net: NetName=NetBR_4 Pin=R5-1
+Added Pin To Net: NetName=NetCN1_10 Pin=R5-2
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetCN1_1 Pin=R7-2
+Added Pin To Net: NetName=NetCN1_1 Pin=R10-1
+Added Pin To Net: NetName=GND Pin=R10-2
+Added Pin To Net: NetName=NetCN1_1 Pin=TP1-1
+Added Pin To Net: NetName=GND Pin=TP2-1
+Added Pin To Net: NetName=NetCN1_2 Pin=TP4-1
+Added Pin To Net: NetName=NetCN1_10 Pin=TP5-1
+Added Member To Class: ClassName=Top Sheet_Power System Member=Component CN1 MSPV10-ND
+Added Member To Class: ClassName=Boosting Stage Member=Component R5 (R2) RC0805FR-07221RL
+Added Member To Class: ClassName=Boosting Stage Member=Component R7 (R4) CRCW0805340KFKEA
+Added Member To Class: ClassName=Boosting Stage Member=Component R10 (R7) RC0805FR-0713KL
+Added Member To Class: ClassName=Top Sheet_Power System Member=Component TP1 5006
+Added Member To Class: ClassName=Top Sheet_Power System Member=Component TP2 5006
+Added Member To Class: ClassName=Top Sheet_Power System Member=Component TP4 5006
+Added Member To Class: ClassName=Top Sheet_Power System Member=Component TP5 5006

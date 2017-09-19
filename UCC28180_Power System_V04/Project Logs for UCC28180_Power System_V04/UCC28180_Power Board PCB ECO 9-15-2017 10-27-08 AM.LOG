@@ -1,0 +1,11 @@
+Added Component: Designator=CN1(MSV10-ND)
+Added Pin To Net: NetName=NetCN1_1 Pin=CN1-1
+Added Pin To Net: NetName=NetCN1_9 Pin=CN1-2
+Added Pin To Net: NetName=GND Pin=CN1-3
+Added Pin To Net: NetName=VCC Pin=CN1-5
+Added Pin To Net: NetName=NetCN1_10 Pin=CN1-10
+Change Net Name : Old Net Name=NetCN1_9 New Net Name=NetCN1_2
+Added Member To Class: ClassName=Top Sheet_Power System Member=Component CN1 MSPV10-ND
+Added Room: Name=Boosting Stage
+Added Room: Name=Filtering Stage
+Added Room: Name=Top Sheet_Power System
