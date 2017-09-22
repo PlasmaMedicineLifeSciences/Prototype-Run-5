@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\SWigh\Desktop\Generator\Altium Designer\Power Factor Correction\Prototype Run 5\UCC28180_Controller_V02\UCC28180-Controller.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=ucc28180-controller-roundholes.txt|DrillLayers=gtl,g2,g3,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=ucc28180-controller-slotholes.txt|DrillLayers=gtl,g2,g3,gbl

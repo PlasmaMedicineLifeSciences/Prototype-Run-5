@@ -192,7 +192,7 @@ GenerateClassCluster=0
 DocumentUniqueId=QYJISWXH
 
 [Document10]
-DocumentPath=CAMtastic1.Cam
+DocumentPath=Project Outputs for UCC28180_Power System_V04\CAMtastic1.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -209,7 +209,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document11]
-DocumentPath=CAMtastic2.Cam
+DocumentPath=Project Outputs for UCC28180_Power System_V04\CAMtastic2.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
