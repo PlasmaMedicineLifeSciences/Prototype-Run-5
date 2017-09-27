@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=NetD7_1 Pin=D11-2
+Removed Pin From Net: NetName=NetD7_1 Pin=R17-1
+Added Component: Designator=R18(RES0805_New)
+Added Pin To Net: NetName=NetD7_1 Pin=R18-1
+Added Pin To Net: NetName=NetD11_2 Pin=D11-2
+Added Pin To Net: NetName=NetD11_2 Pin=R17-1
+Added Pin To Net: NetName=NetD11_2 Pin=R18-2
+Added Net: Name=NetD11_2
+Change Class Name : Old Net Name=U_RCD Snubber circuit New Net Name=U_R2CD Snubber circuit
+Added Member To Class: ClassName=U_R2CD Snubber circuit Member=Component R18 (R2) RMCF0805JT47R0
+Added Room: Name=Top Sheet_Power System
+Added Room: Name=U_2EDN7424_EiceDRIVER
+Added Room: Name=U_12V DC-DC ISOLATOR
+Added Room: Name=U_Boost Converter Circuit
+Added Room: Name=U_EMI Filter
+Added Room: Name=U_Power LED Circuit
+Added Room: Name=U_R2CD Snubber circuit

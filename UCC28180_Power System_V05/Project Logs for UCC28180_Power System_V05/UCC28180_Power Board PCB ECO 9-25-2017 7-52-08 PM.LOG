@@ -1,0 +1,7 @@
+Added Component: Designator=F1(0031.8211)
+Added Pin To Net: NetName=LINE Pin=F1-1
+Added Pin To Net: NetName=NetC2_1 Pin=F1-2
+Added Member To Class: ClassName=U_EMI Filter Member=Component F1 FUSE
+Added Room: Name=Top Sheet_Power System
+Added Room: Name=U_Boost Converter Circuit
+Added Room: Name=U_EMI Filter

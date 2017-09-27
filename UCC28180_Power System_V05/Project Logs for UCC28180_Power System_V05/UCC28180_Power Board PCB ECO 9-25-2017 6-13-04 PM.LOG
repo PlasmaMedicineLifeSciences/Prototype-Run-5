@@ -1,0 +1,5 @@
+Removed Member From Class: ClassName=U_2EDN7424_EiceDRIVER Member=C19
+Change Component Designator: OldDesignator=C19 NewDesignator=C20
+Added Member To Class: ClassName=U_2EDN7424_EiceDRIVER Member=Component C20 (C3) CC0805JKX7R9BB105
+Added Room: Name=Top Sheet_Power System
+Added Room: Name=U_EMI Filter

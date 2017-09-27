@@ -1,0 +1,13 @@
+Added Pin To Net: NetName=-12V_ISO Pin=C7-1
+Added Pin To Net: NetName=-12V_ISO Pin=C8-1
+Added Pin To Net: NetName=-12V_ISO Pin=D4-1
+Added Pin To Net: NetName=-12V_ISO Pin=D8-1
+Added Pin To Net: NetName=-12V_ISO Pin=R13-2
+Added Pin To Net: NetName=-12V_ISO Pin=R14-2
+Added Room: Name=Top Sheet_Power System
+Added Room: Name=U_2EDN7424_EiceDRIVER
+Added Room: Name=U_12V DC-DC ISOLATOR
+Added Room: Name=U_Boost Converter Circuit
+Added Room: Name=U_EMI Filter
+Added Room: Name=U_Power LED Circuit
+Added Room: Name=U_R2CD Snubber circuit

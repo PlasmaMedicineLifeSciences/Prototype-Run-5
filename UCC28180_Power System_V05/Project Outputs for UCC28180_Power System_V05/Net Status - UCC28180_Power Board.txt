@@ -1,0 +1,34 @@
+Net Status Report
+Filename     : C:\Users\SWigh\Desktop\Generator\Altium Designer\Power Factor Correction\Prototype Run 5\UCC28180_Power System_V05\UCC28180_Power Board.PcbDoc
+Date         : 9/25/2017
+Time         : 4:59:19 PM
+Time Elapsed : 00:00:00
+
+Nets, Layer, Length
+    EARTH, Signal Layers Only, 594.35mils
+    GND, Signal Layers Only, 4312.364mils
+    LINE, Signal Layers Only, 281.655mils
+    NEUTRAL, Signal Layers Only, 2950.746mils
+    NetBR_1, Signal Layers Only, 3283.295mils
+    NetBR_2, Signal Layers Only, 333.072mils
+    NetBR_3, Signal Layers Only, 2707.35mils
+    NetBR_4, Signal Layers Only, 2241.851mils
+    NetC1_2, Signal Layers Only, 1626.008mils
+    NetC2_1, Signal Layers Only, 3482.037mils
+    NetC6_2, Signal Layers Only, 1123.771mils
+    NetCN1_1, Signal Layers Only, 923.236mils
+    NetCN1_10, Signal Layers Only, 553.986mils
+    NetCN1_2, Signal Layers Only, 0mils
+    NetD1_1, Signal Layers Only, 0mils
+    NetD1_3, Signal Layers Only, 0mils
+    NetD4_1, Signal Layers Only, 153.163mils
+    NetD4_3, Signal Layers Only, 0mils
+    NetD6_2, Signal Layers Only, 1142.131mils
+    NetD7_1, Signal Layers Only, 2455.024mils
+    NetL2_2, Signal Layers Only, 350.355mils
+    NetR6_2, Signal Layers Only, 327.384mils
+    NetR7_1, Signal Layers Only, 125mils
+    NetR8_1, Signal Layers Only, 120mils
+    VCC, Signal Layers Only, 3622.954mils
+    VOUT, Signal Layers Only, 5411.393mils
+count : 26
